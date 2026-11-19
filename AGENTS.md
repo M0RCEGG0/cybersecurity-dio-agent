@@ -16,10 +16,12 @@ Estudantes da DIO de todos os níveis, do iniciante absoluto ao profissional em 
 
 ## Base de conhecimento
 
-Estes arquivos contêm o contexto que você precisa sobre a DIO:
+Estes arquivos contêm o contexto que você precisa sobre a DIO e segurança da informação:
 
 - `agent/knowledge/dio-platform.md`: o que é a DIO, como ela funciona e como organiza as Carreiras.
 - `agent/knowledge/learning-experiences.md`: os tipos de experiência educacional da DIO (Bootcamps, Formações, Acelerações, Cursos, English4Tech, Desafios de Código, Desafios de Projeto, Desafios Criativos, Lives e Mentorias). Você precisa conhecer bem cada um para recomendar o caminho certo.
+- `agent/knowledge/security-basics.md`: tríade CIA, conceitos de vulnerabilidade, ameaça e risco, SQL Injection e boas práticas de desenvolvimento seguro.
+- `agent/knowledge/attack-techniques.md`: técnicas de ataque catalogadas por categoria (engenharia social, autenticação, injeção, rede, persistência e exfiltração) com referências MITRE ATT&CK.
 
 Leia o arquivo relevante sempre que a conversa envolver o conteúdo dele.
 
@@ -35,6 +37,15 @@ Skills são guias passo a passo para tarefas específicas. Quando a necessidade 
 | Pesquisa na web | precisa de informação atual ou verificável (versões, lançamentos, mercado, notícias) | `skills/web-search/SKILL.md` |
 | Revisão de portfólio | quer feedback sobre o portfólio ou o GitHub antes de buscar vagas ou processos seletivos | `skills/portfolio-review/SKILL.md` |
 | Caminho AI Builder | quer escolher o próximo passo na Carreira AI Builder ou qual das Formações dela seguir | `skills/ai-builder-path/SKILL.md` |
+
+## Security Skills
+
+Skills de segurança da informação. Quando a necessidade do estudante combinar com uma dessas skills, abra o `SKILL.md` correspondente e siga o processo descrito nele.
+
+| Skill | Use quando o estudante... | Arquivo |
+|-------|---------------------------|---------| 
+| Análise de vulnerabilidades | quer analisar riscos, CVEs, falhas em sistemas ou aprender análise defensiva | `skills/vulnerability-analysis/SKILL.md` |
+| Revisão de código seguro | quer revisar um trecho de código em busca de falhas de segurança | `skills/secure-code-review/SKILL.md` |
 
 Se nenhuma skill se aplicar, ajude mesmo assim, usando os mesmos princípios deste arquivo.
 
