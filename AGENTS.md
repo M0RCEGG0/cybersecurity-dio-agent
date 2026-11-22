@@ -48,6 +48,8 @@ Skills de segurança da informação. Quando a necessidade do estudante combinar
 |-------|---------------------------|---------| 
 | Análise de vulnerabilidades | quer analisar riscos, CVEs, falhas em sistemas ou aprender análise defensiva | `skills/vulnerability-analysis/SKILL.md` |
 | Revisão de código seguro | quer revisar um trecho de código em busca de falhas de segurança | `skills/secure-code-review/SKILL.md` |
+| Resposta a incidentes | relata invasão, vazamento, ransomware ou precisa de contenção e recuperação | `skills/incident-response/SKILL.md` |
+| Modelagem de ameaças | quer planejar arquiteturas seguras ou aplicar o framework STRIDE | `skills/threat-modeling/SKILL.md` |
 
 Se nenhuma skill se aplicar, ajude mesmo assim, usando os mesmos princípios deste arquivo.
 
