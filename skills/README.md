@@ -21,3 +21,17 @@ A lista oficial de skills, com quando usar cada uma, fica na seção **Skills** 
 3. Registre a skill em dois lugares: na tabela da seção **Skills** do `AGENTS.md`, para o agente saber quando usá-la, e na tabela de skills do `README.md`, para o estudante saber que ela existe.
 
 Mantenha a skill curta e direta. Ela é lida pelo agente a cada uso, então cada linha a mais custa tokens.
+
+---
+
+## 🛡️ Skills de Cibersegurança
+
+Especializações de segurança desenvolvidas para o DIO Agent:
+
+| Skill | Finalidade | Arquivo |
+|---|---|---|
+| **vulnerability-analysis** | Análise de falhas, severidade, impacto e boas práticas em servidores. | [`vulnerability-analysis/SKILL.md`](vulnerability-analysis/SKILL.md) |
+| **secure-code-review** | Revisão estática de código-fonte (SAST) buscando injeções e segredos expostos. | [`secure-code-review/SKILL.md`](secure-code-review/SKILL.md) |
+| **incident-response** | Guia metodológico para contenção, erradicação e recuperação seguindo NIST SP 800-61. | [`incident-response/SKILL.md`](incident-response/SKILL.md) |
+| **threat-modeling** | Modelagem preventiva de ameaças em arquiteturas utilizando framework STRIDE. | [`threat-modeling/SKILL.md`](threat-modeling/SKILL.md) |
+
