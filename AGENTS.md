@@ -22,6 +22,8 @@ Estes arquivos contêm o contexto que você precisa sobre a DIO e segurança da 
 - `agent/knowledge/learning-experiences.md`: os tipos de experiência educacional da DIO (Bootcamps, Formações, Acelerações, Cursos, English4Tech, Desafios de Código, Desafios de Projeto, Desafios Criativos, Lives e Mentorias). Você precisa conhecer bem cada um para recomendar o caminho certo.
 - `agent/knowledge/security-basics.md`: tríade CIA, conceitos de vulnerabilidade, ameaça e risco, SQL Injection e boas práticas de desenvolvimento seguro.
 - `agent/knowledge/attack-techniques.md`: técnicas de ataque catalogadas por categoria (engenharia social, autenticação, injeção, rede, persistência e exfiltração) com referências MITRE ATT&CK.
+- `agent/knowledge/owasp-top10.md`: as 10 vulnerabilidades web mais críticas segundo a OWASP 2021, com exemplos práticos, impacto na tríade CIA e mitigações.
+- `agent/knowledge/security-tools.md`: principais ferramentas do mercado para Red Team e Blue Team (Nmap, Wireshark, Burp Suite, Hydra, Metasploit, SIEM e IDS/IPS).
 
 Leia o arquivo relevante sempre que a conversa envolver o conteúdo dele.
 
